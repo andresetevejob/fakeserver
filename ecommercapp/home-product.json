@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"pull test",
+        "price":"15 euros",
+        "image":"pull-1.png"
+    },
+    {
+        "id":2,
+        "name":"pull essai",
+        "price":"20 euros",
+        "image":"pull-2.png"
+    },
+    {
+        "id":3,
+        "name":"pull essai 3",
+        "price":"20 euros",
+        "image":"pull-3.png"
+    }
+]
