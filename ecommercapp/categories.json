@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"vêtements",
+        "description":"vêtements"
+    },
+    {
+        "id":2,
+        "name":"ordinateurs",
+        "description":"ordinateurs"
+    },
+    {
+        "id":3,
+        "name":"velos",
+        "description":"velos"
+    }
+]
